@@ -46,7 +46,9 @@ To check the current python version run: python -V
 - [Four part tutorial](https://www.youtube.com/watch?v=wlnx-7cm4Gg)
 
 ## Screen
-[How To Use Linux Screen](https://linuxize.com/post/how-to-use-linux-screen/)
+- [What is screen?](https://www.geeksforgeeks.org/screen-command-in-linux-with-examples/)
+- [How To Use Linux Screen](https://linuxize.com/post/how-to-use-linux-screen/)
+### Basic commands
 1. To start a screen named ce510 `screen -S ce510`
 2. To detach from a screen hit Ctrl+a then hit d
 3. To list active screens `screen -ls`
