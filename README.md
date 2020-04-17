@@ -1,10 +1,14 @@
 # CE510 - Social Media Mining Project
 
+## VPN Access
+[Use VPN for a Secure Connection](https://www.it.northwestern.edu/oncampus/vpn/)
+
 ## Python Virtutal Environment
 ### EECS server login
-murphy.wot.eecs.northwestern.edu
-honlan.wot.eecs.northwestern.edu
-finagle.wot.eecs.northwestern.edu
+- murphy.wot.eecs.northwestern.edu
+- honlan.wot.eecs.northwestern.edu
+- finagle.wot.eecs.northwestern.edu
+- Contact TAs for login help and server list etc.
 
 ### Switch Python shell
 - For Python 2.7.17: `scl enable python27 bash`
@@ -27,7 +31,21 @@ To check the current python version run: python -V
 3. Install packages needed for your project ...
 
 ## Twitter Application Account
-[Tweepy Documentation](https://developer.twitter.com/en)
+[Twitter Developer Account](https://developer.twitter.com/en)
+#### Login to `https://developer.twitter.com/`
+![](/developer_account.png)
+#### Navigate to Developer -> Use cases -> Academic research
+![](/use_case_academic.png)
+#### Apply for an account
+![](/app_review.png)
+![](/apps.png)
 
 ## Tweepy Python Library
 [Tweepy Documentation](http://docs.tweepy.org/en/latest/)
+
+## Screen
+[How To Use Linux Screen](https://linuxize.com/post/how-to-use-linux-screen/)
+1. To start a screen named ce510 `screen -S ce510`
+2. To detach from a screen hit Ctrl+a then hit d
+3. To list active screens `screen -ls`
+4. To reattach to a screen `screen -r ce510`
