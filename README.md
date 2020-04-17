@@ -33,12 +33,12 @@ To check the current python version run: python -V
 ## Twitter Application Account
 [Twitter Developer Account](https://developer.twitter.com/en)
 #### Login to `https://developer.twitter.com/`
-![](/developer_account.png)
+![](/images/developer_account.png)
 #### Navigate to Developer -> Use cases -> Academic research
-![](/use_case_academic.png)
+![](/images/use_case_academic.png)
 #### Apply for an account
-![](/app_review.png)
-![](/apps.png)
+![](/images/app_review.png)
+![](/images/apps.png)
 
 ## Tweepy Python Library
 - [Tweepy Documentation](http://docs.tweepy.org/en/latest/)
