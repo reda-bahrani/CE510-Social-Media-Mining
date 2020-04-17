@@ -41,7 +41,9 @@ To check the current python version run: python -V
 ![](/apps.png)
 
 ## Tweepy Python Library
-[Tweepy Documentation](http://docs.tweepy.org/en/latest/)
+- [Tweepy Documentation](http://docs.tweepy.org/en/latest/)
+- [Very sophisticated code example!](https://github.com/reda-bahrani/CE510-Social-Media-Mining/blob/master/code/tweepy_example.py)
+- [Four part tutorial](https://www.youtube.com/watch?v=wlnx-7cm4Gg)
 
 ## Screen
 [How To Use Linux Screen](https://linuxize.com/post/how-to-use-linux-screen/)
