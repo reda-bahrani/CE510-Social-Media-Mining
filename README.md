@@ -32,10 +32,13 @@ To check the current python version run: python -V
 
 ## Twitter Application Account
 [Twitter Developer Account](https://developer.twitter.com/en)
+
 #### Login to `https://developer.twitter.com/`
 ![](/images/developer_account.png)
-#### Navigate to Developer -> Use cases -> Academic research
+
+#### Navigate to Developer > Use cases > Academic research
 ![](/images/use_case_academic.png)
+
 #### Apply for an account
 ![](/images/app_review.png)
 ![](/images/apps.png)
@@ -48,6 +51,7 @@ To check the current python version run: python -V
 ## Screen
 - [What is screen?](https://www.geeksforgeeks.org/screen-command-in-linux-with-examples/)
 - [How To Use Linux Screen](https://linuxize.com/post/how-to-use-linux-screen/)
+
 ### Basic commands
 1. To start a screen named ce510 `screen -S ce510`
 2. To detach from a screen hit Ctrl+a then hit d
