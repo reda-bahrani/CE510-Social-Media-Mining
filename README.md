@@ -10,13 +10,6 @@
 - finagle.wot.eecs.northwestern.edu
 - Contact TAs for login help and server list etc.
 
-### Switch Python shell
-- For Python 2.7.17: `scl enable python27 bash`
-- For Python 3.4.2: `scl enable rh-python34 bash`
-- For Python 3.5.1: `scl enable rh-python35 bash`
-- For Python 3.6.9: `scl enable rh-python36 bash`
-
-To check the current python version run: python -V
 
 ### Create environment
 `virtualenv --system-site-packages <env_name>`
