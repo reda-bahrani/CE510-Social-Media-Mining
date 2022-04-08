@@ -1,5 +1,8 @@
 # CE510 - Social Media Mining Project
 
+## COVID-19 Dataset
+[A large-scale COVID-19 Twitter chatter dataset for open scientific research - an international collaboration](https://zenodo.org/record/6336166#.YlBUSS-B3ux)
+
 ## VPN Access
 [Use VPN for a Secure Connection](https://www.it.northwestern.edu/oncampus/vpn/)
 
