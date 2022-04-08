@@ -4,15 +4,12 @@
 [Use VPN for a Secure Connection](https://www.it.northwestern.edu/oncampus/vpn/)
 
 ## Python Virtutal Environment
-### EECS server login
-- murphy.wot.eecs.northwestern.edu
-- honlan.wot.eecs.northwestern.edu
-- finagle.wot.eecs.northwestern.edu
+### ECE server login
 - Contact TAs for login help and server list etc.
 
 
 ### Create environment
-`virtualenv --system-site-packages <env_name>`
+`python3 -m venv --system-site-packages <env_name>`
 
 1. `--system-site-packages`: to include pre-installed packages from the current python installation.
 2. `--no-site-packages`: don’t include pre-installed packages from the current python installation. (default)
