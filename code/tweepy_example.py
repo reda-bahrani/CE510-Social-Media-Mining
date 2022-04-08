@@ -1,5 +1,4 @@
 from codes import consumer_key, consumer_secret, access_token, access_token_secret
-# from tweepy.streaming import StreamListener
 from tweepy import OAuthHandler
 from tweepy import Stream
 import socket
